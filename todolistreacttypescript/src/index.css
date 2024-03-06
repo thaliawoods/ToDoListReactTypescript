@@ -1,3 +1,47 @@
+/* @import url("@import url('https://fonts.googleapis.com/css2?family=Montserrat:ital,wght@0,100..900;1,100..900&family=Roboto:ital,wght@0,100;0,300;0,400;0,500;0,700;0,900;1,100;1,300;1,400;1,500;1,700;1,900&display=swap')"); */
+
+* {
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+  background-color: #e0eef3;
+  font-family: "Montserrat", sans-serif;
+}
+
+.main-container {
+  height: 100vh;
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+}
+
+input {
+  height: 35px;
+  width: 165px;
+  background-color: aliceblue;
+  border-radius: 5px;
+  padding: 10px;
+  border: 1px solid #ccc;
+  margin-left: 10px;
+  margin-top: 40px;
+}
+
+li {
+  margin-top: 15px;
+}
+
+button {
+  height: 30px;
+  width: 60px;
+  background-color: blue;
+  color: white;
+  font-size: 1.05rem;
+  margin-top: 10px;
+  cursor: pointer;
+}
+
+/* 
 :root {
   font-family: Inter, system-ui, Avenir, Helvetica, Arial, sans-serif;
   line-height: 1.5;
@@ -65,4 +109,4 @@ button:focus-visible {
   button {
     background-color: #f9f9f9;
   }
-}
+} */
