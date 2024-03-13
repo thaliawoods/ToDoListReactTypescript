@@ -1,6 +1,6 @@
 # ToDoListReactTypescript
 
-Création d'une TodoList pour découvrir TypeScript.
+Création d'une TodoList pour me familiariser avec TypeScript.
 
 ## Tech Stack
 
